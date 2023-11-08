@@ -3,6 +3,7 @@ With the help of OOPs, we try to implement real-world entities such as object, i
 OOPs helps us to follow the DRY(Don't Repeat Yourself) approach of programming, which in turn increases the reusability of the code.
 
 Two most important aspects of OOPs - Classes & Objects :
+
 Class :
 A class is a blueprint for creating objects.
 Classes do not consume any space in the memory.
