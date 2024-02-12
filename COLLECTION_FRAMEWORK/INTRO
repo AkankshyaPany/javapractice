@@ -14,7 +14,7 @@ The Collection framework represents a unified architecture for storing and manip
 1) Interfaces and its implementations, i.e., classes
 2) Algorithm
 
-Iterator interface
+Iterator interface:
 Iterator interface provides the facility of iterating the elements in a forward direction only.
 
 
